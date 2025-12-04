@@ -1,0 +1,2 @@
+File in write mode.This is a new text
+File in append mode.New text in append mode.
