@@ -24,3 +24,4 @@ print(f"Multiplication using 1 iteration: {single_iter_result}")
 # Using N iterations
 n_iter_result = multiply_n_iterations(N, M)
 print(f"Multiplication using N iterations: {n_iter_result}")
+3
