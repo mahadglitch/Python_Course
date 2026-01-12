@@ -1,15 +1,12 @@
 def ONSquareTime(n):
-    iteration=0
-    for i in range(0,n): # rows
-        for j in range(0,n): # columns
-            print("*" , end = " ")
-            iteration+=1
+    iteration = 0
+    for i in range(0, n):  # rows
+        for j in range(0, n):  # columns
+            print("*", end=" ")
+            iteration += 1
         print("")
 
-
-    print("\nWhen n is ",n," Iterations = ",iteration,"\n")
-
-
+    print("\nWhen n is ", n, " Iterations = ", iteration, "\n")
 
 
 ONSquareTime(5)
